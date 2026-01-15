@@ -11,6 +11,11 @@
 ## Strategy
 
 ## Account/PM
+1. Account, value, inventory, orders
+2. maintains positions, cash, margin, realized P&L
+3. applies fills, books trades, marks-to-market
+4. enforces constraints
+5. Portfolio checks risk/limits → passes orders to Broker
 
 ## Slippage/transaction
 
